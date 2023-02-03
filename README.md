@@ -12,7 +12,8 @@ The sales situation of the company tends to increase over the past 4 years, espe
 The profit-to-revenue ratio of the company over 4 years is 12.5%, this rate is relatively low. The company needs to implement policies to save costs and increase sales.
 Some negative profits due to the company trading in a number of items with negative profitability in some item need to review in the policy.
 <br>
-Market overview spans 531 cities but there are only 793 customers and 9994 orders in total over 4 years, this number of customers is relatively small compared to the breadth of the market, it is necessary to review the customer return index customers or the number of customers in each city to find out the reason for the policy adjustment.<br>
+Market overview spans 531 cities but there are only 793 customers and 9994 orders in total over 4 years, this number of customers is relatively small compared to the breadth of the market, it is necessary to review the customer return index customers or the number of customers in each city to find out the reason for the policy adjustment.
+<br>
 <img src="https://user-images.githubusercontent.com/122882141/216488663-69104881-58b2-4a6b-a9db-b04996f8a3e1.png" />
 <br>
 <h5>II. Ask to explore: </h5>
